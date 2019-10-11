@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Аллергия у собак - Terra Natale</title>
+	<meta name="description" content="We suggest you to get acquainted with the information of the nursery of Labradors retrievers Terra Natale - Allergies in dogs. Call Terra Natale Retrievers Labrador Nursery anytime ☎ +38 (050) 415-39-99!">
+	<meta name="keywords" content="Allergies in dogs">
+<?php include 'z_head.php'; ?>	
+<?php include 'z_header.php'; ?>
+  
+<div class="content">
+	<div class="container-fluide">
+		<div class="full-cont">
+		<div class="hlkroshki"><p><a href="<?php print $siteurleng;?>index.php">Home</a> <span> > </span><a href="<?php print $siteurleng;?>articles.php">Articles</a> <span> > Allergies in dogs</span></p></div>
+		<h1>Allergies in dogs</h1>
+<div class="row">
+	<div class="col-xs-12 col-sm-5 col-md-4 col-lg-3">
+	<center><iframe width="200" height="170" src="https://www.youtube.com/embed/uSnGv9v_KHg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+	</div>
+	<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9">
+	<p>Allergy - a dog's life, or myths about chicken</p>
+	</div>
+</div><br>
+
+<p> Allergies in dogs seem like a commonplace topic. I just see how many dog ​​readers even when reading the title of this article yawned and are going to turn the page, firmly convinced that they already know everything about allergies. Take your time! </p>
+<p> This article is for those who are confident in their knowledge of this topic. When asked what is allergy, a person who is not familiar with medicine will easily answer, and any real expert in this field will think about it. </p>
+<p> The definition of the word "allergy" in all textbooks sounds almost the same - "the state of hypersensitivity of the animal organism in relation to a specific substance or substances (allergens), which develops with repeated exposure to these substances." </p>
+<p> There are a number of completely mythical ideas about this ailment that have developed over the years. Let's all figure out - is there at least a grain of truth in these myths? And if all these myths are true, then why are so many dogs still suffering from allergies in its various manifestations? </p>
+<p style="text-transform:uppercase; color:#993300;">Myth 1. The dog itches, the fleas are not visible - it means that she has food allergies.</p>
+<p>If the dog itches, it still does not mean that she is allergic. Different dogs, like you and I, have different reactions to stimuli. In the active, choleric warehouse of the dog, even one nimble flea can cause severe irritation with its bites, and if the dog has dark wool, then the search for fleas will most likely not be crowned with success. In dogs, in addition to the itch from flea bites, there is also such an unpleasant thing as flea allergic dermatitis (BAA). This allergic reaction to saliva and flea excrement, which is much more common than food allergies, and is manifested by very severe skin itching and scratching. Pruritus in dogs can occur due to many other reasons. For example, skin itch can cause contact allergies to shampoos and other hair care products, carpets, detergents and cleaning products or atopy (the second most common type of allergy in dogs after dietary supplements), that is, a reaction to pollen, mold, dust and other substances.</p>
+<p style="text-transform:uppercase; color:#993300;">Myth 2. Chicken is the most terrible food allergen for dogs, so instead of food on chicken, it is best to choose food that contains other meat, lamb, turkey, or homemade food.</p>
+<p> This opinion is a myth of the purest water, as much more often than on chicken, dogs experience allergic reactions to beef, milk and dairy products, soy, and pork. It is these protein products that rank first among allergens for dogs, but unfortunately, few people think about this. For some reason, historically, many professionals, after the owner of a dog with an itch problem during a conversation, accidentally mentions that his dog eats chicken-based feed, they immediately say, “The chicken is very allergic. That is the cause of all the trouble. Change the diet! And what remains to do to the owner of the dog? After all, these words are spoken by a reliable person, a specialist whom the owner trusts. There is no need for inspection, no long research, diagnostics, and the person leaves, amusing himself with the bright hope that everything will pass from the dog's new diet, and it will be possible not to even come to a second dose. In very rare cases, this tactic works, but this is pure coincidence. </p>
+<p> As a rule, the dog is getting worse, one food replaces another, the diagnosis has not been established, and as a result everyone suffers: the owner, who has already spent a lot of money on food and drugs, and a dog who cannot find a place for himself from the increasing itching, and eventually the doctor, to whom sooner or later will turn, - because it is much more difficult for him to understand the condition of the dog. </p>
+<p> On the home diet to talk today is generally strange. Even people with average incomes, having done a couple of elementary calculations, understand that high-quality professional food is much more profitable, not to mention the fact that for this money a dog gets a balanced and full-fledged diet that ensures its health and beauty. </p>
+<p style="text-transform:uppercase; color:#993300;">Myth 3. A dog eats chicken-based food and began to itch, which means that it is allergic to chicken.</p>
+<p> The truth or falsity of this statement in each case can be proved only with the participation of a competent veterinarian. Owners also need to make maximum efforts to try to determine what is an allergen for a dog. Some dogs are really allergic to chicken protein, but these dogs are much smaller than commonly thought. Without diagnosing the allergen, it is impossible to say exactly what caused the reaction in the dog. </p>
+<p> The diagnostic scheme in this case is as follows: the animal receives an exception diet (that is, a certain dietary feed that does not contain chicken protein, for example, catfish and potato-based Dermatosis FP), the amount of time it takes for the allergic symptoms to completely disappear . At the same time it is extremely important that everyone in the family understands that it is absolutely impossible to treat a dog with anything! The owner must be 101% sure that the dog could not steal, eat for a walk, get a lamb-bone-candy-candy out of a loving grandmother, only then will the diet be effective. </p>
+<p> Then, when the dog's condition returns to normal, chicken breasts should be added to the diet, and if this causes a characteristic reddening of the skin and itching, then the diagnosis “food allergy to chicken protein” can be considered established. Only in this case, it is safe to say that the dog is allergic to chicken! Therefore, all unreasonable conjectures like: “Why don't you, your dog cannot feed on a chicken at all, it will have an allergy” or “Why are you surprised that you have a dog itch - you give it yourself on chicken” that owners often hear Labradors or Yorkshire terriers from incompetent sellers of pet shops and illiterate breeders, do not stand a minute of your attention! </p>
+<p> There are wonderful, high-quality dog food based on chicken meat, specially created for dogs of different breeds, which do not cause any allergic reactions even in complicated dogs. Always consult a nutrition professional! </p>
+<p style="text-transform:uppercase; color:#993300;">Myth 4. The most competent advice available on the Internet from other dogmakers.</p>
+<p> Many dog owners and even some breeders have difficulty imagining what an allergy really is. In trying to find out something, the unfortunate owner of the dog, who suddenly had her paws / ears / tail in her hands, instead of contacting the clinic to competent specialists, is confused in the networks of various forums, where often completely incompetent people first diagnose, and then give the silliest tips. </p>
+<p> It is in these forums that topics are often exaggerated about the terrible allergies caused by feed on chicken. It does not matter to these people that the allergic reaction of each animal is very individual, that in the composition of any food there are many other ingredients that are ideal for some animals, and others may cause allergies. Understand that such "good advisers" do not help anyone, but do harm to many. These people, as a rule, have no relation to veterinary medicine. The experience in breeding dogs, which they usually rely on, does not mean anything - all dogs are different, even dogs of the same breed are not as similar as we think. And if these people even have experience in breeding or related to veterinary medicine, I advise you to think about their professionalism. Suspicion of an allergic reaction is not at all the case when a self-respecting doctor will give on-line consultations. </p>
+<p> It is normal to make a diagnosis without inspection and examination of the dog is impossible! </p>
+<p> We live in the modern world, where there are a lot of sources of information that deserve your trust, and there are many worthy veterinary specialists who will help your dog. We ourselves in human medicine do not really favor such a “gypsy” approach - surely, but with a finger to the sky: eat these pills, and then we'll see. For us and our children, such illiterate logic can result in serious chronic diseases, which we will suffer for a long time. So why does it occur to us to address our favorite dog on a forgotten forum, and then, after reading illiterate gossip, to follow the advice of “well-wishers”? </p>
+<p> Who is forewarned is forearmed. It’s up to you who and what to believe. </p>
+<p> Health to you and your pets! </p>
+<p> Remember that myths and reality are completely different things, and you are still responsible for those who have been tamed. </p>
+		</div>
+	</div>
+</div><!--content-->
+
+<?php include 'z_footer.php'; ?>

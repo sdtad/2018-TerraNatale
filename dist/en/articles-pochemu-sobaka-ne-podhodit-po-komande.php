@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Why the dog does not come to my team? - Terra Natale</title>
+	<meta name="description" content="We suggest you to get acquainted with the information of the nursery of Labradors retrievers Terra Natale - Why the dog does not come to my team? Call Terra Natale Retrievers Labrador Nursery anytime ☎ +38 (050) 415-39-99!">
+	<meta name="keywords" content="Why the dog does not come to my team">
+<?php include 'z_head.php'; ?>	
+<?php include 'z_header.php'; ?>
+  
+<div class="content">
+	<div class="container-fluide">
+		<div class="full-cont">
+		<div class="hlkroshki"><p><a href="<?php print $siteurleng;?>index.php">Home</a> <span> > </span><a href="<?php print $siteurleng;?>articles.php">Articles</a> <span> > Why the dog does not come to my team?</span></p></div>
+		<h1>Why the dog does not come to my team?</h1>
+<div class="row">
+	<div class="col-xs-12 col-sm-5 col-md-4 col-lg-3">
+	<center><img src="<?php print $siteurleng;?>img/articles/articles12.jpg"></center>
+	</div>
+	<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9">
+	<p>The little puppy is so fond of his master, who replaced his mother, that he is ready to run up to him at his first call. But later, he stops doing it, and the reason for this, most often, are the owners themselves. A dog will eventually stop coming to your call if: A puppy has long grown into an adult dog, and you walk with him in the volume of a puppy. An adult dog needs more impressions and physical awards than a puppy. Experiencing informational and stressful “hunger”, she will only think about how to escape from you into the wild, where everything is “new and everything worries”.</p>
+	</div>
+</div><br>
+<p> In general, bringing a dog to the street only “on the sign”, will subsequently lead to huge and diverse problems not only in terms of the dog’s behavior, but also its health. You called a dog, it came, and you yelled at it or hit it. Such methods of “education” are not even discussed, not a single person in his right mind can hear the other person’s “Come here! I will kill you! ”, He will not run to meet him in order to get his“ people ”. </p>
+<p> You walk a lot with a dog, but with the same routes that you’ve got tired of a dog for a long time. Dogs need new information, incl. New impressions (places, other dogs, smells, etc.), as well as people need new impressions received on TV, the Internet, books, communication with other people, etc. </p>
+<p> A bored dog is a source of endless problems. You walk with a dog only on a strapped leash, even in places where the law does not forbid you to let her go. The dog has long been "fed up" to walk at your feet, its instincts require more active movement. After leaving the leash, she most likely will not return to you until she runs up. </p>
+<p> Also, there will inevitably arise problems not only with the behavior of the dog, but also with its health, as well as the person locked up for 10-12 years "within four walls." You walk with your dog in the style of the painting “icebreaker Krasin paves the way in the ice”, i.e. considering only your interests, and never - dogs. You never turn off the “million” travel times, even if the dog is interested in something and wants to turn off, and does not even slow down if it stops to smell something. Such a “devil-may-care” attitude to the interests of the dog will inevitably lead to a “devil-may-care” attitude to your person from the side of the dog, and your call to her will be “damn light”. </p>
+<p> You have cold hands and feet and you get hysterical when you meet another person with a dog on a leash, especially if it is a larger breed. In a fit of panic, you immediately go with your dog to the other side of the street, go around the oncoming people and exit to the roadway, at the risk of being crushed by a car, grab the dog in your arms, and wildly looking around try to slip past “this horror”, etc. </p>
+<p> At first it will greatly “surprise” your dog, then it will get used to it, and even later it will consider all oncoming dogs as “dangerous enemies” and rush at them or rubbing with tripled force. Moreover, the owners of such dogs themselves are no less “frail”, since they are hysterical. The result of all this will be that you can express one, but very capacious concept of “Lack of socialization of a dog in relation to other dogs” (perhaps such owners have the same problems in relation to other people, which they carry on their dogs). Releasing such a dog from a leash, it may not return, because “with a fright”, i.e. in a state of prostration, or aggression, she simply will not even hear the voices of her master, and will either run off “wherever they look”, or pounce on another dog, and you will not drag her away with any command. Your dog loves to walk very much (especially in those dogs with whom they walk a little, or they let out only to take a walk in the garden), because staying at home / on the plot, “dying” from boredom, for her “real punishment”. And you, in order to go home with her, call, take her on a leash and drag her home to this “prison” from the point of view of the dog. Such dogs should be called up and taken on a leash in advance, long before you take her home, so that the dog does not have an association “leash - home = end of pleasures.” </p>
+<p> You walk with a dog without a leash. Something interested her and she went there, but it’s dangerous there, for example, cars can drive. You command the dog “Come to me!” Or “Stop!” And when you come, take it on a leash and lead it in the opposite direction, although you have the opportunity to go there further with the dog so that she can see (most likely - smell) that interested her. Be sure that after a couple of such "exercises" on your part, the dog will stop stopping or approaching you on your command. </p>
+<p> Dogs are not idiots, and immediately conclude that once called, it means they will not give a sniff, and it is better to pretend to be “deaf” than to deny yourself the pleasure. When walking, it is always necessary to take into account that you came out primarily on the “needs” of the dog, and not on your own, such as fitness, and its “needs” are very diverse, and if possible you should try to satisfy them, and of course within reason, for example, if your dog is interested in a bird “smeared” by cars on the roadway, then you should not go there with it to get a better “look”, but to say simply “There is no way! There are cars there. ” A “hike” round-trip with a dog to the store next door is for example not a walk! </p>
+<p> This is only your interests, not the interests of the dog. Any complete “ignore” of the interests of the dog will lead to the fact that it “puts” you also into a complete “ignore”. Remember also that calling a dog to a treat, this is only the first step in “setting up” it for the behavior you want. In the future, she should approach you only because she loves you and trusts you, and knows that “If the owner calls, it means something is dangerous, and you need to come running to him, because my master is a person, and he knows that human environment is really dangerous and what is not. "</p>
+<p> And yet - NEVER AND UNDER ANY CIRCUMSTANCES do you meet a SILENT dog running up to you (as if this is how it should be) - ALWAYS THANK YOU. </p>
+<p> The desired behavior of the dog is “tuned” by the simplest verbal method “Well done, good!” and “Bad-bad dog!”, otherwise the dog will not understand what she is doing right and what is not. Only these two simple commands can orient her, how to act and, what to do, in an absolutely alien for her, like a dog, “human pack”. </p>
+		</div>
+	</div>
+</div><!--content-->
+
+<?php include 'z_footer.php'; ?>

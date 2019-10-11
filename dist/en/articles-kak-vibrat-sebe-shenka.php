@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>How to choose a puppy? - Terra Natale</title>
+	<meta name="description" content="We suggest you to get acquainted with the information of the nursery of Labradors retrievers Terra Natale - How to choose a puppy? Call Terra Natale Retrievers Labrador Nursery anytime ☎ +38 (050) 415-39-99!">
+	<meta name="keywords" content="How to choose a puppy?">
+<?php include 'z_head.php'; ?>	
+<?php include 'z_header.php'; ?>
+  
+<div class="content">
+	<div class="container-fluide">
+		<div class="full-cont">
+		<div class="hlkroshki"><p><a href="<?php print $siteurleng;?>index.php">Home</a> <span> > </span><a href="<?php print $siteurleng;?>articles.php">Articles</a> <span> > How to choose a puppy?</span></p></div>
+		<h1>How to choose a puppy?</h1>
+		
+<div class="row">
+	<div class="col-xs-12 col-sm-5 col-md-4 col-lg-3">
+	<center><img src="<?php print $siteurleng;?>img/articles/articles2.jpg"></center>
+	</div>
+	<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9">
+	<p>This issue is faced by most people who dream of a dog. Everyone has a desire to have a beautiful, pedigree animal, with excellent health and excellent psyche, but very often, especially recently, instead of a dream, people get a miserable resemblance of a Labrador retriever, with an uncontrollable psyche and with a bouquet of various diseases.</p>
+	</div>
+</div><br>
+
+<center><img src="<?php print $siteurleng;?>img/articles/articles2-1.jpg"></center>
+<p> First of all, you need to choose a nursery and get acquainted with the breeder. Do not rush, this is the most crucial moment. Examine the kennels and look at the dogs, their content and blood, on which the kennel works, on the psyche of dogs, behavior, look at the results of work (previous puppies and the results of exhibitions). Gather information about the breeder from various sources so as not to become a victim of bias. But be careful, because and among the Breeders there are very unclean personalities, where there is a forgery of documents, deception of future owners, breeding uncleaned animals and much more. The Labrador Retriever breed is very popular, it is now prestigious to have such a dog, unfortunately it is the fashion for it that destroys the breed itself. At the moment, such a large number of people who absolutely do not understand either the breed or the breeding genetics, calling themselves "Breeders", causing enormous damage to the breed, have grown. </p>
+<p> As a rule, these are owners of a commercially purchased bitch (at the lowest price) with global dreams of selling puppies from her. A factory set-top box is quickly issued (at best, and more often even without these costs), the bitch is tangled with a dog living next door (come off! The main thing is cheap), and now the newly breeder gets offspring.</p>
+<p> Answers to questions: how was the litter obtained, for what purpose and with what result? such a “Breeder” cannot give, for the reason that he himself does not know this. What is waiting for these puppies in the future - he is not interested in absolutely, what consequences may be from such a breeding he does not know. This is the “headache” of the owners of these puppies, among which the following similar “breeders” have already been cloned. </p>
+<p> As a result of these uncontrolled matings, whole generations of dogs overwhelmed the market - with enormous problems, of which the smallest is the lack of breed (i.e., the dog looks little like a Labrador), and also: mentally unhealthy animals - because of cowardice fears his own shadow, to uncontrollable aggressiveness (when a dog terrorizes the whole family); genetic diseases such as epilepsy, joint dysplasia, eye diseases, heart disease, and many others. All these diseases are not visible in puppies, they appear in a year or two. Costly treatment only helps to maintain the existence of such dogs for some time, bringing temporary relief. Sometimes this existence lasts for years. But most often these dogs are either redeemed, or with a sentimental history are looking for new owners, or simply thrown into the street. </p>
+<p style = "color: #993300;"> A good breeder will listen to your wishes and recommend you a puppy. </p>
+<p style = "color: #993300;"> He will tell about the quality and character of each of the puppies, He completely takes responsibility for the offspring and will always help novice owners on proper cultivation, education and many other issues, which with the appearance in the house a small miracle there is a large number. </p>
+<h2> Choosing the right Breeder is 90% success in choosing a puppy. </h2>
+<p> What should be alerted when buying a puppy first? </p>
+<p> 1. This is the price. A good, pedigree puppy with good blood for manufacturers can not be cheap. </p>
+<p> The stories that, unlike the nurseries, we do not profit, but simply out of love we plant and sell at a symbolic price - this is already a trap. Having bought a dog on the cheap, you will automatically receive the entire “bouquet” described above, and also remember that having bought a dog for two rubles you will not sell puppies from under it for more than one. The average price for a good Labrador puppy from 700 dollars and above. To get good offspring, only the best animals with interesting blood are acquired; a breeding line is planned in advance, taking into account all the “pitfalls” in the form of general diseases, psyche and other characteristics. Further such animals are grown on the best feed and under the control of a veterinarian. It is mandatory that such animals are exhibited repeatedly under the expert breeds at exhibitions to get an assessment. </p>
+<p> When puberty is reached, the animal is examined for the degree of dysplasia, and a certificate with the results is issued. Next is planned mating, taking into account the planning line breeding, with a specific goal. The resulting offspring is professionally grown to a minimum of 1.5 months of age on the best feed, with mandatory vaccination, degelmentization, and vitamin supplements. All puppies are necessarily included in the litter evaluation report at the KSU club and have KSU puppy documents for obtaining a pedigree (in the FCI system). All litter puppies are required to have a stamp or chip, have a veterinary passport with a mark of vaccination and de-gelling. As agreed by the parties in the kennels, formal contracts are concluded for the sale of puppies, which is also a guarantee. The best puppies are usually kept in the kennel for further, more mature evaluation in order to leave the best individuals in the kennel or for sale with a show class guarantee. Knitting producers is expensive, much more expensive than a good puppy, in order to get high-quality offspring, in search of a pair, the breeder does not stint cross several borders into other states or buy a good producer in the nursery. Given all the above aspects, it becomes clear that such a puppy can not be cheap. </p>
+<p> 2. If the breeder hides the information on the litter from you. He refuses to show his parents, documents, cannot even name the nursery and the nursery by producers, citing it with anything from his own sclerosis to the unimportance of these questions. Remember that the puppy you buy will live with you for at least a decade, so there can be no unimportant questions in buying it. </p>
+<p> 3. If the breeder does not have any documents confirming the authenticity of the breed of animals (puppy cards, litter inspection report). Mating two different breed dogs is not such a rarity, it is sometimes difficult even for professionals to distinguish a Labrador puppy from a half-breed, and when it grows up it will be too late, and you will have to bring up an explosive mixture in the form of a cross between a pooch and a “dvorterier” can be dangerous for you and your loved ones. </p>
+<p> 4. If you saw the content of dogs in the pigsty, and the appearance of the dogs is pathetic - do not expect that you will be healthy and well-groomed puppies. For healthy offspring, producers should be healthy in the first place, because health is laid at conception. Go away immediately. </p>
+<p> 5. When choosing a puppy, pay attention to the content (clean, warm, with access to sunlight), the appearance and behavior of the puppies. They should be active, restless, fun to twist their tails to the outstretched hand and try to lick you. Puppies should be moderately well-fed, with shiny hair and a good appetite. Eyes and nose should be clean, without congestion and discharge. The stomachs should not be tense and swollen (this indicates the presence of parasites and intestinal problems). The biggest mistake when choosing a puppy is a pity to warm the lambshell. Suppress this feeling in yourself, because out of pity for the expired shelf life you will not take yourself a sour yogurt? Regretting once you will regret the remaining years, and others will regret you. </p>
+<p style = "color: #993300;"> 6. If the breeder "throws mud" on the work of other breeders, claiming that he is the only unique decent breeder, and everything else mongrels - immediately leave. This is not true. </p>
+<p style = "color: #993300;"> A small number of nurseries are engaged in competent breeding, but they do not deny the existence of such. There is a community of such breeders, where the main goal is to get breed animals in the framework of friendship and good, healthy competition. </p>
+		</div>
+	</div>
+</div><!--content-->
+
+<?php include 'z_footer.php'; ?>

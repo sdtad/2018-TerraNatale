@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Features of training puppies with dominant and soft characters</title>
+	<meta name="description" content="We suggest you to get acquainted with the information of the nursery of Labradors retrievers Terra Natale - Features of training puppies with dominant and soft characters. Call Terra Natale Retrievers Labrador Nursery anytime ☎ +38 (050) 415-39-99!">
+	<meta name="keywords" content="Features of training puppies with dominant and soft characters">
+	<?php include 'z_head.php'; ?>	
+<?php include 'z_header.php'; ?>
+  
+<div class="content">
+	<div class="container-fluide">
+		<div class="full-cont">
+		<div class="hlkroshki"><p><a href="<?php print $siteurleng;?>index.php">Home</a> <span> > </span><a href="<?php print $siteurleng;?>articles.php">Articles</a> <span> > Features of training puppies with dominant and soft characters</span></p></div>
+		<h1>Features of training puppies with dominant and soft characters</h1>
+		
+<div class="row">
+	<div class="col-xs-12 col-sm-5 col-md-4 col-lg-3">
+	<center><img src="<?php print $siteurleng;?>img/articles/articles4.jpg"></center>
+	</div>
+	<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9">
+	<p>A lot of articles and books have been written about dog training, while they say little or very little about the time when the puppy started learning. And this is very important. It is necessary to take into account that all puppies even from one litter develop differently, and therefore their readiness for learning is also different. If the owner or trainer does not take this into account, then the dog can be trained very slowly or with big problems and overloads for the puppy's unstable psyche.</p>
+	</div>
+</div><br>
+
+<center><img src="<?php print $siteurleng;?>img/articles/articles4-1.jpg"></center>
+<p style="color:#993300;">Article 7. “Training” of the European Convention for the Protection of Pet Animals: “No pet should be trained in a manner that is harmful to its health and condition, especially if it is forced, or means are used that cause injury or cause unnecessary pain, suffering and stress” . </p>
+<p> A lot of articles and books have been written about dog training, but they say little or very little about the time when the puppy started learning. </p>
+<p> And this is very important. It is necessary to take into account that all puppies even from one litter develop differently, and therefore their readiness for learning is also different. If the owner or trainer does not take this into account, then the dog can be trained very slowly or with big problems and overloads for the puppy's unstable psyche. Starting a puppy too early can be detrimental. </p>
+<p> A lot of puppies were spoiled by inexperienced owners or incompetent trainers who were in a hurry to prepare a puppy for the show or for hunting. Like humans, all puppies have their own personalities and temperament. </p>
+<p> These traits begin to appear in puppies approximately from the moment they are “taken away” from their mother’s breasts. Looking as puppies run up in a bowl with food, you can see that some puppies prefer to avoid confrontation and will wait until all the other puppies are full before coming to the cup. Such puppies usually try not to attract too much attention to themselves, for fear of more assertive puppies. </p>
+<p> Many people consider them timid, cautious and compliant, that is, what is called, with a "soft character." Very often, puppies with a mild temperament shy away from their fellows, and when meeting new people or dogs, they behave very cautiously and try not to get close to them. It is impossible to say about such puppies that they are bad and good for nothing, they just lack confidence in themselves. </p>
+<p> For them, socialization is especially important, after which they feel quite comfortable in the company of outsiders or dogs. Puppies with a soft character, as a rule, will never defy other dogs or assert themselves in front of people. They develop much more slowly than puppies with a self-confident, strong temperament, which means that they should be started later. It should be borne in mind that puppies with a mild temperament can never be punished during training, otherwise they withdraw into themselves, experiencing pain and resentment. The key to working with soft dogs is patience, gradualness, winning their trust and caress. </p>
+<p> Experienced and successful coaches say - it’s better not to create problems right away than to eliminate them. </p>
+<p> Puppies with a dominant character demonstrate courage and confidence in themselves from birth. </p>
+<p> Often, in puppies with a strong temperament, the desire to dominate is already manifested in the litter. They want to get leader status over their brothers and sisters. As a rule, they declare their “rights” in a cup with food, pushing apart or even biting the rest of the puppies or not letting anyone at all until they are fed up. In games, such newly-made “bosses” demonstrate their status by jumping on the backs of other puppies and trying to pin them to the floor. They bite and attack more often than other puppies. Puppies with a soft character, as a rule, quickly recognize the "coolness" of the dominant puppies. You can see that their tails are lower than the dominant leaders. </p>
+<p> As a rule, by the age of 8 weeks in the litter, everything is exactly defined as a “boss”, and who is a subordinate. Puppies with a strong temperament can be best suited as dogs for field trials. They can be trained from a very early age, and their upbringing is relatively easy. As family pets, they are less suitable, since it is highly likely that they will try to demonstrate their dominant behavior with people. If the owners are 100% sure that they are able to correct the behavior of the dog with the guts of the leader, then dogs with strong temperament can also become pets. As a rule, puppies with a soft character are found in almost every litter, therefore, choosing new owners for them, the responsible breeder must take into account their temperament and socialization. Potential buyers should take into account that puppies can not be selected based solely on their appearance and color. Many experienced breeders understand this and pick the owners according to the temperament of the puppies. </p>
+<p> Having succumbed to the temptation to start training as soon as possible, some people simply forget that this is just a puppy and he may still be just not ready for it. Even among courageous puppies there are those that are developing slowly and are not ready for early learning. </>
+<p> A small puppy, you first need to just get acquainted with the outside world (socialization). He can get acquainted with new smells, herbs, run after insects or even birds, developing his hunting instincts. </p>
+<p> In addition, before you start training a puppy, you must fully gain his trust and give him confidence that in any situation you will protect him. Strong and soft characters are two extremes. </p>
+<p> The temperament of most puppies lies somewhere between these two extremes. Therefore, these puppies are well suited, both as pets and field dogs. They are suitable for most homes and better suited for the most inexperienced owners. </p>
+<p> For puppies with a strong or soft character, new owners should be selected only by very experienced ones. </p>
+<p> When you bring a puppy to your house (or even an adult dog), it is important not to be tempted to start teaching him immediately. Give him time to get comfortable in this new and strange place for him. Let him explore the house and its new "relatives". </p>
+<p> Enjoy the company of your puppy, get to know each other better, achieve his trust in you. It is extremely important to get the trust of a puppy, if you want a dog that will have the desire to please you and work well with you on the same team, be it exhibitions, field trials, hunting or just hanging out. Trust is your very first task. When the dog confides, she will feel more secure in any situation. You will notice that as confidence increases, her desire to please her best friend will increase. </p>
+<p> Pay attention to how she begins to react to familiar situations in a new way, how her activity and even her voice timbre change. </p>
+<p> When you thoroughly examine the temperament of your pet, you can determine the possible dates for the start of his training. </p>
+<p> However, it is better to err and not rush to start training. </p>
+<p> So, wait with the training of your puppy until he feels at home and most importantly with you is comfortable. </p>
+<p> It is recommended to spend more time with him. Start by walking around the house in a familiar puppy environment. After that, you can begin to teach him to walk around the non-habitual places. Let him study the world and get acquainted with his rules of living together. </p>
+<p> Then you can go to the outing walks. Going into the field provide an opportunity for your puppy to frolic from the heart. Your communication with him should be fun and good-natured. Do not teach him or force him to execute commands. </p>
+<p> Try to talk more with your puppy to make it a habit to listen to you always. </p>
+<p> Going out of the countryside is not limited to a walk, be sure to choose a place where you both can sit quietly and admire nature. At this time, the puppy can explore the surroundings and get acquainted with new smells (dogs in many ways know the world through the scent). All dogs are very fond of when their owner "descends" from a person's height to their level from the ground. Therefore, sitting down, for example, on a stump, the puppy is likely to run up to you to find out what's wrong. Fine! This means that the puppy already trusts you. Stroke him and say encouraging words to him. Remember - no hurry! Be patient! </p>
+<p> If you start training a puppy without establishing trusting relationships with it, and as a result, the puppy will still lack self-confidence, you will only aggravate the situation, which will inevitably lead to problems. If training is started too early, the puppies tend to ignore abandoned ponosok or balls, and if they even run after them, they will not bring them back to you. </p>
+<p> Excessive number of object shots can cause boredom in puppies and then be reluctant to bring them to you. Limit yourself to three throws 2 times a day. It is necessary to maintain the interest of the puppy to the game. Never try to forcibly take away a subject from a puppy, you will encourage him to distrust. If this happens, then next time the puppy will simply run away from you with the object in his teeth. </p>
+<p> Some coaches recommend playing an appraisal of items with a puppy in the hallway so that he does not have the opportunity to run away from you. But this method is incorrect, it can only work at first, until the puppy understands what is happening, and he will take the object and go to the place to play with him, instead of bringing it to you. So what you get is a problem instead of an export. </p>
+<p> If the coach persistently forces the puppy to bring the object to him, the puppy will not do this from the “principle.” </p>
+<p> He may think that you are an evil fool and further training in the acquisition will be "not interesting." This approach to learning is useless. In order to train your puppy to aportirovka, you need to create conditions for his complete relaxation and playfulness. </p>
+<p> Do not ask him to demonstrate full perfection in the exercise of this exercise, do not make it nervous. </p>
+<p> He may not be ready for this. Instead, have patience, be guided by gradualism and keep your puppy's natural desire to bring you a diarrhea, and in time he will surprise you when you least expect it. With cheeky puppies, i.e. with a dominant character, you need to be strict enough to remind them who is in charge of the house. When walking, they can begin to show their character. Do not let them dictate their conditions when choosing where to go. If you go with him "on the occasion", then you thereby confirm his claims to the home throne. Such a puppy needs to be explained that he works for you. For example, if he stubbornly slows you down, sniffing at any objects, or goes to explore the area in the direction of your route, then you must continue your journey in silence at the same pace. Regardless of how much your puppy would like to show you his independence, he will in fact be afraid to be alone and run after you. Repeat this exercise until the puppy fully accepts your dominant position. </p>
+<p> Walking with a puppy of a hunting direction, it is necessary to train him to turn by pointing directions with his hand. </p>
+<p> With patience and taking into account the temperament of your puppy, you can begin to learn it. This way you can avoid a lot of problems when training a dog. After you gain the trust of your puppy, i.e. he will run up to you with great enthusiasm, you will know that he is ready to start learning. </p>
+		</div>
+	</div>
+</div><!--content-->
+
+<?php include 'z_footer.php'; ?>
